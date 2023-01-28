@@ -3,7 +3,7 @@
 
 - Atualmente trabalho com UX
 
-- Focado em ser um desenvolvedor Full Stack e me especializando em CSS3, HTML5 e JavaScript
+- Focado em ser um desenvolvedor Full Stack, atualmente estou me especializando em CSS3, HTML5 e JavaScript
 
 ![Matheus Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=devdesouza&show_icons=true&theme=synthwave)
 
